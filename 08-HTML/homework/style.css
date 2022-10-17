@@ -1,0 +1,28 @@
+body {
+  background-image: url('https://cutewallpaper.org/22/aesthetic-laptop-minimalist-wallpapers/aesthetic-art-laptop-wallpapers-top-free-aesthetic-art-laptop-backgrounds--wallpaperaccess.jpg');
+}
+.divClass {
+  text-align: center;
+}
+
+.divClass h1 {
+  color: red;
+}
+img {
+  width: 400px;
+}
+.thirdDiv {
+  margin: auto;
+  text-align: center;
+  width: 500px;
+  height: 600px;
+  background-color: antiquewhite;
+  padding: 50px;
+  border-color: rgb(0, 0, 0);
+  border-width: 10px;
+  border-style: dotted;
+}
+.spanId {
+  font-size: 18px;
+  margin: 50px;
+}
